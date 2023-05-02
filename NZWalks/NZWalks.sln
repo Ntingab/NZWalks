@@ -5,8 +5,6 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NZWalks.APi", "NZWalks.APi\NZWalks.APi.csproj", "{99FF3E5B-7E23-40E2-A409-0F1E6729821C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{5FF2E693-C6CB-496B-B72D-0E8DC73D90BE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
